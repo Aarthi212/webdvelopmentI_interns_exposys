@@ -1343,10 +1343,15 @@ footer {
     font-size: x-large;
     font-weight: 500;
     line-height: 40px;
-    font-family: 'Roboto';
+    font-family: 'Raleway';
     text-align: justify;
 }
 
 .bold {
     font-weight: bold;
+}
+
+.cardtitle {
+    font-size:xx-large;
+    font-weight: bolder;
 }
