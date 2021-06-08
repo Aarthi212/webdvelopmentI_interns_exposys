@@ -1369,3 +1369,15 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
     background: darkslategrey;
 }
+
+.preface-bg {
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(https://i.imgur.com/lxWxP1B.png);
+}
+
+.introduction-bg {
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(https://i.imgur.com/ooYtd4x.png);
+}
